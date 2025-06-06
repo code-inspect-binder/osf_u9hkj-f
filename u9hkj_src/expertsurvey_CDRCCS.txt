@@ -1,0 +1,173 @@
+ID	support_sol	support_hyd	support_wind	support_geo	support_nuc	support_solbio	support_liqbio	support_gasbio	knowBECCS_authored	knowBECCS_folnow	knowBECCS_folpas	knowBECCS_low	knowBECCS_no	knowBECCS_pubno	knowDACCS_authored	knowDACCS_folnow	knowDACCS_folpas	knowDACCS_low	knowDACCS_no	knowDACCS_pubno	riskgeostor_1	riskgeostor_2	riskgeostor_3	DACCS_cost1	DACCS_cost2	DACCS_biodiv1	DACCS_biodiv2	DACCS_mor1	DACCS_mor2	DACCS_mor3	DACCS_tamp1	DACCS_tamp2	DACCS_tamp3	DACCS_tamp4	DACCS_feas1	DACCS_feas2	DACCS_nec1	DACCS_nec2	DACCS_support_reas	DACCS_support_depl	BECCS_cost1	BECCS_cost2	BECCS_biodiv1	BECCS_biodiv2	BECCS_mor1	BECCS_mor2	BECCS_mor3	BECCS_tamp1	BECCS_tamp2	BECCS_tamp3	BECCS_tamp4	BECCS_feas1	BECCS_feas2	BECCS_nec1	BECCS_nec2	BECCS_support_reas	BECCS_support_depl	techopt1	techopt2	techopt3	techopt4	acadgroup	job_cat
+1	6	6	6	6	3	4	4	4	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	3	3	3	1	1	5	1	6	3	2	1	1	1	2	2	3	5	1	3	3	1	1	1	5	6	3	3	2	4	2	2	2	2	4	2	6	4	3	1	3	3	Social Sciences and Economics	Prof
+2	5	4	4	4	1	6	6	6	Yes	Yes	Yes	No	No	1-2	No	Yes	Yes	No	No	0	5	2	1	1	1	3	3	5	5	5	2	3	2	3	4	3	4	3	5	4	6	5	6	1	1	1	3	4	1	1	1	6	6	6	1	6	6	6	3	6	5	Engineering and technology	Junior
+3	4	4	4	5	4	4	6	5	Yes	Yes	Yes	No	No	more than 4	No	Yes	No	No	No	0	3	1	1	5	2	6	2	3	2	2	6	2	2	2	3	5	3	5	6	4	5	3	3	3	2	2	2	6	2	2	2	5	6	4	4	6	5	6	6	6	6	Natural Sciences	Prof
+4	5	5	5	5	6	5	4	5	Yes	Yes	Yes	No	No	3-4	No	No	Yes	No	No	0	3	2	1	2	1	2	1	1	1	1	2	1	1	1	4	3	2	4	4	3	5	5	4	1	3	1	1	5	1	1	1	6	5	4	2	6	6	6	4	6	4	Engineering and technology	Senior
+5	6	3	6	6	4	4	5	5	No	Yes	No	No	No	0	No	Yes	No	No	No	0	5	1	1	1	1	2	1	6	1	2	1	1	1	1	3	2	5	3	6	2	3	3	3	4	3	1	2	1	1	1	1	2	2	3	3	6	3	5	2	5	5	Natural Sciences	Prof
+6	6	5	6	4	2	4	4	5	No	Yes	No	No	No	0	No	Yes	No	No	No	0	3	5	4	3	1	3	3	6	4	4	1	2	4	2	5	5	5	4	5	5	4	3	1	3	2	4	3	2	1	1	1	4	4	4	3	4	4	5	2	6	5	Engineering and technology	Senior
+7	6	5	6	6	3	4	3	3	Yes	Yes	Yes	No	No	more than 4	Yes	Yes	Yes	No	No	more than 4	5	2	1	2	1	3	2	3	5	4	2	2	4	2	3	4	3	4	5	5	2	1	2	4	2	4	4	2	2	4	2	3	2	1	4	5	4	3	1	4	3	Social Sciences and Economics	Senior
+8	6	6	6	6	4	3	3	3	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	5	2	1	3	3	1	1	1	2	2	1	1	1	1	4	4	4	4	6	6	4	4	3	1	1	2	2	6	1	1	1	3	3	4	4	4	4	6	1	6	5	Natural Sciences	Senior
+9	6	6	6	6	6	2	2	2	Yes	Yes	No	No	No	3-4	No	Yes	No	No	No	0	6	1	1	2	1	5	1	1	2	4	1	1	1	1	5	4	4	6	6	6	5	5	2	4	1	2	1	1	1	1	1	6	6	6	1	6	6	6	4	6	6	Natural Sciences	Prof
+10	5	4	6	4	6	3	5	3	Yes	Yes	No	No	No	1-2	No	No	Yes	No	No	0	2	4	3	1	1	5	1	6	6	5	1	1	4	1	2	1	1	6	2	2	2	2	1	2	3	6	4	1	1	4	1	2	2	2	5	4	4	6	5	4	3	NA	Prof
+11	6	6	6	4	3	6	5	2	Yes	No	No	No	No	1-2	NA	NA	NA	Yes	NA	0	4	4	5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	4	5	3	3	3	3	3	2	2	1	4	4	2	3	4	3	6	5	6	4	NA	Junior
+12	6	4	6	4	4	2	5	4	Yes	No	No	No	No	3-4	No	Yes	No	No	No	0	4	3	2	1	1	2	5	6	6	6	1	2	2	2	2	5	1	6	5	4	3	4	3	5	3	4	2	3	2	2	2	2	5	2	5	6	5	6	1	6	5	Engineering and technology	Senior
+13	6	6	6	5	3	4	4	4	Yes	Yes	No	No	No	1-2	Yes	Yes	No	No	No	1-2	5	2	2	1	1	5	2	5	2	2	1	1	2	2	5	5	3	3	6	6	2	1	2	4	5	2	3	1	3	2	2	5	5	3	2	6	6	6	3	6	4	Engineering and technology	Junior
+14	6	6	6	6	4	4	4	4	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	4	2	2	1	5	1	1	3	3	1	1	1	1	6	6	6	2	6	6	3	1	1	4	1	3	1	1	4	1	4	4	3	3	4	4	4	4	1	4	5	Natural Sciences	Other
+15	5	3	6	4	5	3	4	4	No	Yes	No	No	No	0	Yes	Yes	No	No	No	1-2	2	3	3	1	1	3	3	6	6	5	1	2	5	2	5	5	5	3	6	3	3	2	3	4	2	3	2	6	4	2	1	4	4	5	1	6	6	5	2	6	6	Natural Sciences	Junior
+16	6	6	6	3	1	3	4	4	No	No	Yes	No	No	0	Yes	No	No	No	No	1-2	5	2	1	3	3	5	1	3	5	4	3	1	2	3	4	3	5	4	5	5	3	4	3	2	4	5	4	3	1	2	1	3	2	2	5	4	4	2	1	3	4	Natural Sciences	Other
+17	6	6	6	6	1	5	5	5	No	Yes	No	No	No	0	NA	NA	NA	Yes	NA	0	1	6	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	3	6	3	3	3	3	5	3	1	5	5	5	5	1	6	6	6	6	6	6	Natural Sciences	Prof
+18	6	5	6	6	5	4	4	4	Yes	No	No	No	No	1-2	No	Yes	No	No	No	0	4	2	2	3	2	5	2	2	4	3	3	2	2	2	4	4	4	3	6	5	3	3	3	2	2	3	2	4	2	2	2	2	2	3	3	5	5	5	4	4	5	Social Sciences and Economics	Prof
+19	6	6	6	6	6	3	3	3	No	No	Yes	No	No	0	Yes	Yes	Yes	No	No	more than 4	5	1	1	2	2	3	1	1	2	2	1	1	1	1	6	6	6	2	6	6	4	3	2	5	2	3	2	3	3	1	2	5	4	3	3	6	4	6	5	6	5	Natural Sciences	Prof
+20	4	4	4	4	4	4	4	4	Yes	Yes	Yes	No	No	more than 4	Yes	Yes	No	No	No	1-2	4	4	4	4	2	3	2	3	4	2	1	1	1	1	6	5	5	5	5	4	2	4	2	4	1	2	2	4	3	1	1	5	4	5	1	5	4	6	1	4	5	Engineering and technology	Senior
+21	6	4	6	6	4	4	5	4	Yes	Yes	Yes	No	No	3-4	Yes	Yes	Yes	No	No	1-2	4	1	1	2	2	4	2	6	5	5	1	3	5	3	3	5	3	4	6	4	3	2	3	3	5	4	4	2	2	3	2	4	4	4	4	6	5	6	5	5	6	Engineering and technology	Senior
+22	6	4	6	6	5	2	4	3	No	Yes	No	No	No	0	Yes	Yes	No	No	No	3-4	5	2	1	2	1	6	1	1	3	3	1	1	2	1	6	6	5	1	6	6	3	4	2	5	2	6	6	3	5	2	4	6	5	5	2	5	5	6	3	5	6	Social Sciences and Economics	Prof
+23	4	6	3	3	3	5	5	4	Yes	Yes	Yes	No	No	3-4	NA	NA	NA	Yes	NA	0	4	1	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	2	3	3	1	2	1	4	1	1	1	6	6	6	1	6	6	6	4	5	6	Engineering and technology	Senior
+24	5	5	5	5	2	4	4	4	Yes	Yes	Yes	No	No	3-4	Yes	Yes	Yes	No	No	1-2	5	2	2	1	1	3	3	4	4	4	1	1	1	1	4	6	4	3	6	6	3	1	1	4	3	4	4	1	1	1	1	5	4	4	2	6	5	4	3	4	3	Social Sciences and Economics	Junior
+25	6	5	6	5	5	4	5	4	Yes	Yes	No	No	No	3-4	Yes	Yes	Yes	No	No	more than 4	5	2	2	2	1	3	2	2	4	3	3	1	1	1	4	3	5	5	6	6	2	2	2	4	3	4	4	2	1	1	1	4	4	2	3	5	3	5	3	5	6	NA	Prof
+26	6	4	6	5	2	3	3	3	No	Yes	Yes	No	No	0	Yes	Yes	Yes	No	No	1-2	1	4	3	1	1	3	3	5	5	5	1	2	1	2	4	3	3	4	6	3	1	1	1	6	5	5	4	2	5	2	2	2	2	1	5	5	2	2	1	3	6	Natural Sciences	Junior
+27	6	3	6	6	6	3	3	3	No	No	Yes	No	No	0	No	No	Yes	No	No	0	4	1	1	2	2	6	6	2	2	2	1	1	1	1	6	3	1	6	6	5	2	2	1	4	2	3	2	1	3	3	1	5	3	1	6	5	2	6	3	6	6	Natural Sciences	Prof
+28	5	3	5	5	1	3	3	4	Yes	No	No	No	No	1-2	No	Yes	No	No	No	0	2	4	3	1	1	2	3	5	5	5	2	2	2	2	3	2	2	5	3	2	1	1	2	2	5	4	5	2	2	2	2	2	2	2	5	4	2	3	2	3	4	Engineering and technology	Prof
+29	6	4	6	5	2	4	3	5	Yes	Yes	No	No	No	3-4	No	Yes	No	No	No	0	5	3	2	2	2	2	3	5	4	5	1	1	1	1	6	4	3	2	5	5	2	2	3	4	4	4	4	3	1	2	1	6	3	4	4	6	3	5	2	5	4	Engineering and technology	Prof
+30	6	6	6	6	4	2	2	2	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	4	4	1	2	5	2	5	5	5	2	2	3	2	5	3	2	4	6	4	3	3	1	4	6	5	5	2	6	4	4	2	2	2	4	6	3	6	1	5	6	Natural Sciences	Prof
+31	6	4	6	6	3	4	5	6	Yes	No	No	No	No	1-2	No	Yes	No	No	No	0	5	1	1	2	1	5	2	5	2	2	2	2	2	2	3	3	4	2	6	5	5	2	3	3	5	2	2	1	2	1	2	3	5	4	2	6	5	6	3	6	6	Engineering and technology	Prof
+32	6	6	6	4	3	4	4	4	Yes	No	No	No	No	more than 4	No	Yes	No	No	No	0	3	6	6	1	1	6	1	6	6	6	1	2	5	2	4	2	5	3	6	2	5	3	6	1	3	2	3	5	2	4	1	6	5	5	1	6	6	5	5	3	5	NA	Prof
+33	6	2	5	6	1	1	1	1	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	5	4	4	2	2	3	6	6	6	2	4	6	3	3	4	3	3	4	4	5	3	3	3	6	6	6	3	3	6	3	2	2	2	2	2	2	5	1	4	5	Natural Sciences	Senior
+34	6	6	6	6	6	2	2	2	No	No	Yes	No	No	0	No	Yes	No	No	No	0	3	3	5	3	4	3	2	4	2	3	1	2	6	5	2	4	4	3	6	6	4	3	4	2	4	2	3	2	4	6	5	3	3	4	2	6	6	4	1	4	6	Social Sciences and Economics	Junior
+35	6	6	6	6	3	3	3	3	Yes	Yes	No	No	No	1-2	Yes	No	No	No	No	3-4	3	3	2	2	4	4	1	3	2	2	1	2	2	2	6	6	4	4	6	5	3	2	3	3	3	2	2	3	3	2	2	5	4	3	2	6	4	6	4	3	4	NA	Prof
+36	5	4	4	5	3	4	4	4	Yes	Yes	Yes	No	No	more than 4	Yes	Yes	No	No	No	1-2	5	1	2	2	1	2	2	1	3	3	1	1	1	1	3	4	1	5	6	5	2	2	2	4	1	2	3	1	2	2	1	4	4	2	3	6	4	3	1	5	6	NA	Prof
+37	6	3	6	6	4	3	3	3	Yes	Yes	No	No	No	1-2	Yes	Yes	No	No	No	1-2	4	2	2	2	1	5	2	1	2	3	1	3	3	1	3	3	4	1	6	6	3	2	2	2	5	3	2	3	5	3	4	4	3	5	1	6	5	4	2	3	4	Natural Sciences	Senior
+38	6	4	6	6	4	4	4	4	Yes	Yes	Yes	No	No	1-2	No	Yes	Yes	No	No	0	2	1	1	1	1	4	1	1	1	1	1	1	3	1	3	4	2	4	6	6	3	1	3	2	1	1	2	5	2	3	2	5	4	3	4	6	6	5	4	5	4	Engineering and technology	Senior
+39	6	5	6	6	5	5	6	6	No	No	Yes	No	No	0	No	Yes	No	No	No	0	5	1	1	4	1	4	1	1	2	1	1	2	1	1	6	6	6	1	6	6	2	4	1	4	3	5	4	2	1	3	1	3	2	1	5	3	2	5	4	4	4	Social Sciences and Economics	Other
+40	6	6	6	5	5	5	5	5	No	Yes	Yes	No	No	0	Yes	Yes	Yes	No	No	more than 4	3	3	3	3	3	4	1	6	2	2	1	1	3	2	6	6	6	1	6	6	6	3	3	3	3	1	2	1	2	1	1	6	5	5	5	6	6	6	1	6	6	Engineering and technology	Prof
+41	6	4	6	4	2	3	6	6	Yes	No	No	No	No	3-4	No	Yes	No	No	No	0	5	6	2	1	1	2	2	5	4	4	1	2	4	1	2	3	3	5	3	2	5	5	5	1	2	3	2	2	1	2	1	6	6	5	1	6	6	6	1	5	6	Engineering and technology	Prof
+42	4	4	4	5	5	4	4	4	No	No	Yes	No	No	0	No	Yes	No	No	No	0	3	2	2	2	2	3	1	2	1	2	1	1	1	1	3	4	5	2	6	5	1	2	3	2	1	1	2	3	2	1	2	3	3	5	2	5	4	6	3	6	4	Social Sciences and Economics	Other
+43	6	4	6	5	1	3	1	3	Yes	No	No	No	No	more than 4	No	Yes	No	No	No	0	4	4	2	1	1	1	1	4	5	6	1	1	4	1	3	2	2	1	3	3	2	1	1	3	3	4	4	1	2	3	1	4	2	2	4	6	4	4	1	3	2	Social Sciences and Economics	Prof
+44	5	5	5	5	5	3	3	3	No	No	Yes	No	No	0	NA	NA	NA	Yes	NA	0	3	3	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	3	2	5	5	5	3	2	2	2	2	2	2	4	3	6	3	6	2	6	6	Natural Sciences	Senior
+45	6	5	6	6	4	5	5	5	No	Yes	No	No	No	0	Yes	No	No	No	No	1-2	2	2	2	1	1	1	1	3	2	2	1	1	1	1	3	4	6	1	6	6	5	5	2	4	2	2	2	2	1	1	1	5	4	4	3	6	6	6	4	6	6	Engineering and technology	Junior
+46	6	6	6	6	4	3	3	3	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	5	2	3	4	4	3	2	6	5	4	2	5	5	5	5	4	5	2	6	4	4	4	3	3	6	5	6	2	5	5	5	4	4	5	2	6	4	6	1	6	5	Social Sciences and Economics	Junior
+47	6	6	6	6	6	6	6	6	Yes	Yes	Yes	No	No	3-4	Yes	Yes	No	No	No	3-4	6	1	1	3	4	1	1	4	2	3	1	1	1	1	6	6	2	2	6	6	2	3	3	3	3	2	1	1	2	1	1	6	6	5	1	6	6	6	1	6	6	NA	Senior
+48	4	3	4	5	2	4	4	4	Yes	Yes	Yes	No	No	more than 4	Yes	Yes	Yes	No	No	3-4	4	2	3	2	1	6	1	2	2	2	6	1	1	1	5	6	5	2	6	6	3	3	3	4	2	2	2	6	1	1	1	5	5	5	2	6	6	5	2	5	5	Social Sciences and Economics	Prof
+49	5	5	5	5	5	5	5	5	Yes	Yes	No	No	No	1-2	Yes	Yes	No	No	No	1-2	2	2	4	3	1	3	2	6	4	5	1	3	5	3	5	5	6	1	5	4	3	1	2	5	6	3	2	1	3	4	3	5	6	5	1	5	5	3	1	2	6	Engineering and technology	Junior
+50	6	6	6	6	3	5	5	5	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	5	1	1	2	1	6	1	1	1	1	1	1	1	1	6	6	6	6	6	6	3	3	1	2	1	1	1	1	1	1	1	6	2	3	1	6	6	6	4	6	3	Social Sciences and Economics	Prof
+51	6	5	6	6	5	4	4	4	Yes	No	No	No	No	1-2	No	Yes	No	No	No	0	5	2	1	3	2	5	1	1	3	4	1	1	2	3	5	5	4	2	6	6	4	3	2	4	2	3	3	3	2	2	2	5	4	4	1	6	5	4	2	4	4	Natural Sciences	Junior
+52	6	4	4	1	4	5	3	3	Yes	Yes	Yes	No	No	more than 4	NA	NA	NA	Yes	NA	0	3	1	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	4	4	2	2	2	4	4	4	2	2	4	4	3	2	6	5	4	3	4	5	Engineering and technology	Prof
+53	4	5	5	5	4	2	2	2	No	Yes	No	No	No	0	No	Yes	No	No	No	0	4	2	2	2	2	3	1	2	4	4	1	2	2	1	3	2	3	3	4	4	2	2	1	5	3	4	4	1	2	2	2	3	2	2	4	3	2	3	2	2	3	Engineering and technology	Prof
+54	5	6	5	4	5	6	6	6	Yes	No	No	No	No	more than 4	Yes	No	No	No	No	more than 4	6	1	1	6	6	5	2	2	1	6	6	2	5	1	6	6	5	2	6	6	6	6	5	5	3	3	3	6	5	2	1	6	6	6	2	6	6	6	5	6	6	Natural Sciences	Prof
+55	5	5	5	5	4	5	2	4	Yes	Yes	No	No	No	3-4	Yes	Yes	No	No	No	3-4	4	1	1	4	4	3	4	1	2	3	2	1	1	1	5	4	4	3	5	5	5	4	3	2	1	1	2	3	1	1	1	6	5	5	2	6	6	4	3	5	5	Engineering and technology	Prof
+56	6	5	6	6	3	5	5	5	No	Yes	No	No	No	0	No	Yes	No	No	No	0	3	3	3	1	1	1	1	4	3	2	1	2	1	2	3	2	3	1	4	3	1	1	2	1	4	2	2	1	1	1	1	3	2	3	2	4	3	3	1	3	3	Engineering and technology	Senior
+57	6	5	6	6	1	5	4	5	Yes	Yes	Yes	No	No	more than 4	Yes	Yes	Yes	No	No	1-2	5	1	2	1	1	1	3	6	6	6	2	1	5	1	3	2	4	3	5	1	5	5	3	2	2	4	3	1	1	1	1	4	4	6	1	6	6	4	1	6	6	Engineering and technology	Prof
+58	5	6	5	5	5	6	3	3	Yes	Yes	Yes	No	No	more than 4	No	Yes	Yes	No	No	0	4	3	1	1	1	2	2	5	5	4	2	1	5	1	2	2	2	5	4	3	3	5	3	3	4	4	4	3	1	5	1	5	4	5	2	6	6	5	5	5	5	Engineering and technology	Prof
+59	6	6	6	6	2	4	4	4	No	Yes	No	No	No	0	No	Yes	No	No	No	0	2	1	1	3	3	6	1	1	1	1	6	1	1	1	6	6	4	2	6	6	1	3	2	4	1	1	1	6	2	4	1	4	1	1	6	4	3	6	2	5	2	Natural Sciences	Prof
+60	6	6	6	6	6	6	4	6	Yes	Yes	Yes	No	No	3-4	Yes	Yes	No	No	No	1-2	6	1	1	2	1	4	2	4	4	4	2	4	4	5	5	5	3	3	5	5	4	1	4	3	2	4	2	3	2	2	2	6	6	6	1	6	5	6	5	6	5	Engineering and technology	Senior
+61	6	5	5	6	6	6	6	6	No	Yes	No	No	No	0	No	Yes	No	No	No	0	4	3	1	1	1	5	5	1	5	2	1	1	1	1	2	3	2	2	5	3	5	4	3	2	1	1	6	4	1	1	1	6	6	6	6	6	6	6	6	6	6	Natural Sciences	Prof
+62	6	5	6	6	1	5	2	4	Yes	Yes	No	No	No	more than 4	No	Yes	No	No	No	0	2	3	3	1	1	1	6	6	6	6	1	3	6	3	1	1	4	3	1	1	2	2	2	4	5	4	4	2	3	5	3	2	1	4	2	3	2	2	1	4	2	Engineering and technology	Prof
+63	6	6	6	3	2	4	4	4	Yes	Yes	No	No	No	3-4	No	No	Yes	No	No	0	2	4	3	6	1	2	1	6	1	2	1	1	6	3	1	1	1	2	3	3	3	4	6	1	2	2	2	5	1	1	1	4	4	3	3	6	6	4	1	6	6	Natural Sciences	Prof
+64	6	3	6	4	1	2	2	2	No	Yes	No	No	No	0	No	Yes	No	No	No	0	1	6	6	1	1	1	5	6	6	6	1	3	6	3	1	1	1	6	2	1	1	1	1	6	6	6	6	1	4	6	4	2	1	1	6	1	1	3	1	2	2	Social Sciences and Economics	Other
+65	6	6	6	6	5	6	5	5	Yes	Yes	Yes	No	No	more than 4	Yes	Yes	Yes	No	No	1-2	5	2	1	4	2	3	2	2	2	3	1	1	1	1	5	4	3	3	6	6	3	4	2	3	1	3	3	1	2	1	1	4	5	3	1	6	6	4	2	4	4	Natural Sciences	Senior
+66	5	5	5	4	4	5	4	5	Yes	Yes	Yes	No	No	1-2	Yes	Yes	No	No	No	1-2	3	3	4	2	2	3	2	5	3	4	2	2	3	2	5	5	4	3	5	5	3	3	5	2	2	2	4	4	5	2	3	5	5	5	2	5	5	5	3	4	5	Engineering and technology	Prof
+67	6	5	6	6	3	6	6	6	Yes	Yes	Yes	No	No	1-2	No	Yes	No	No	No	0	4	3	2	4	3	4	3	6	5	4	1	1	5	1	6	6	6	1	6	6	6	4	3	6	5	5	5	1	5	6	4	5	6	6	1	6	4	4	2	3	4	Social Sciences and Economics	Prof
+68	6	6	6	6	1	6	3	3	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	3	6	1	1	3	2	6	5	6	2	2	1	2	1	4	1	5	4	1	2	1	1	1	6	1	6	3	5	1	2	1	1	1	1	5	2	1	1	5	5	NA	Senior
+69	6	6	6	6	6	2	2	2	No	No	Yes	No	No	0	NA	NA	NA	Yes	NA	0	4	2	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2	1	6	3	4	3	1	6	4	4	3	2	1	2	2	2	6	2	5	2	NA	Prof
+70	6	6	6	2	6	6	6	6	Yes	Yes	No	No	No	more than 4	No	Yes	No	No	No	0	3	3	2	2	1	3	2	4	4	3	1	3	4	1	4	4	4	3	6	4	6	5	6	1	2	2	5	3	3	4	2	5	5	4	5	6	6	5	5	5	5	Engineering and technology	Prof
+71	6	5	6	6	4	3	3	3	Yes	Yes	No	No	No	1-2	NA	NA	NA	Yes	NA	0	3	3	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	5	3	3	2	4	4	2	3	5	2	4	5	3	2	6	4	4	2	3	4	Engineering and technology	Junior
+72	5	4	5	4	1	4	4	4	Yes	Yes	No	No	No	3-4	NA	NA	NA	Yes	NA	0	5	2	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	6	5	2	2	1	1	4	1	1	1	6	5	4	2	6	6	4	3	6	5	Engineering and technology	Prof
+73	6	6	6	6	6	4	4	3	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	3	1	1	1	3	1	1	1	2	1	1	1	3	5	6	5	1	6	6	2	5	3	1	1	1	1	3	1	1	1	1	4	4	1	6	6	6	1	6	4	Social Sciences and Economics	Junior
+74	6	3	6	6	2	1	2	2	Yes	Yes	No	No	No	1-2	No	Yes	No	No	No	0	2	1	1	1	1	1	1	6	6	6	1	1	6	1	1	1	1	6	3	2	1	1	1	5	6	6	6	1	5	6	6	2	1	1	6	2	1	3	2	3	3	Natural Sciences	Prof
+75	5	6	4	6	5	1	2	3	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	4	3	2	1	1	3	1	2	1	1	2	3	1	1	1	2	2	5	2	1	2	4	2	3	1	1	1	4	4	1	1	1	2	2	4	3	2	6	4	6	6	Social Sciences and Economics	Senior
+76	3	6	3	4	4	4	4	4	No	Yes	Yes	No	No	0	No	Yes	Yes	No	No	0	5	1	2	1	1	2	2	2	6	6	1	6	6	6	1	1	1	6	1	1	4	3	5	3	1	1	1	5	2	5	1	5	5	6	1	6	5	5	2	5	2	Engineering and technology	Prof
+77	5	5	5	5	5	5	5	5	No	No	Yes	No	No	0	Yes	No	No	No	No	1-2	2	3	1	2	2	5	1	2	2	2	2	1	1	1	4	4	4	2	6	4	3	3	3	4	2	2	2	3	1	1	2	4	3	4	2	5	3	5	2	5	5	Engineering and technology	Other
+78	5	2	5	6	6	3	3	6	No	Yes	Yes	No	No	0	Yes	Yes	Yes	No	No	1-2	5	3	2	5	5	5	1	2	2	2	5	1	1	1	6	6	6	1	6	6	6	3	3	2	2	2	1	6	5	1	1	6	6	6	1	6	6	6	1	6	6	Natural Sciences	Prof
+79	5	4	4	4	4	3	3	3	No	No	Yes	No	No	0	No	Yes	Yes	No	No	0	5	2	2	2	2	4	2	2	2	2	4	1	1	2	4	4	5	2	5	5	3	3	2	5	4	5	3	3	3	4	2	4	3	4	3	5	4	5	2	6	6	Engineering and technology	Senior
+80	6	5	5	6	5	3	3	3	No	Yes	No	No	No	0	NA	NA	NA	Yes	NA	0	4	3	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2	1	5	3	4	3	2	3	1	2	4	2	6	6	6	4	3	4	4	4	Social Sciences and Economics	Prof
+81	6	6	6	6	1	3	3	3	Yes	Yes	No	No	No	3-4	No	Yes	No	No	No	0	3	2	2	2	2	4	2	2	5	5	1	3	5	3	2	4	3	5	6	4	5	5	1	6	3	5	5	1	3	3	2	4	5	3	5	6	3	1	1	3	4	Natural Sciences	Junior
+82	5	4	5	4	1	3	3	3	No	Yes	No	No	No	0	No	Yes	No	No	No	0	3	3	3	1	1	3	4	4	4	4	6	1	1	1	1	3	1	6	5	3	1	1	1	4	4	4	4	6	1	1	1	4	4	1	6	5	3	6	1	2	6	Social Sciences and Economics	Junior
+83	3	3	3	3	2	3	3	3	Yes	Yes	Yes	No	No	3-4	NA	NA	NA	Yes	NA	0	2	4	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	3	4	4	6	5	4	4	4	3	3	4	4	3	4	4	3	6	1	6	6	Engineering and technology	Prof
+84	6	6	6	6	4	2	2	3	Yes	Yes	Yes	No	No	1-2	No	Yes	Yes	No	No	0	4	5	4	2	1	3	3	5	5	5	3	3	6	3	3	3	4	5	5	2	3	3	1	6	6	4	5	2	4	4	3	2	4	4	5	5	3	3	1	3	5	Natural Sciences	Prof
+85	6	6	6	6	3	6	6	6	NA	NA	NA	Yes	NA	0	Yes	No	No	No	No	1-2	3	4	5	6	6	6	1	3	1	2	2	1	1	1	6	6	5	2	6	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	1	6	6	Engineering and technology	Senior
+86	6	6	6	6	5	6	6	6	Yes	Yes	Yes	No	No	3-4	NA	NA	NA	Yes	NA	0	5	2	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	6	3	1	1	1	1	6	1	5	1	6	6	1	6	6	6	6	6	6	6	Natural Sciences	Prof
+87	6	3	5	5	2	5	5	5	Yes	Yes	No	No	No	1-2	Yes	Yes	No	No	No	1-2	1	3	3	3	3	3	2	6	2	1	6	1	1	1	5	5	5	2	6	6	4	3	5	2	6	2	2	6	1	1	1	6	6	6	2	6	6	6	6	6	6	NA	Senior
+88	6	5	6	5	6	3	3	3	No	Yes	No	No	No	0	Yes	No	No	No	No	more than 4	6	2	1	6	3	6	1	1	2	2	2	1	1	2	6	6	4	2	6	6	2	2	1	2	2	2	2	2	1	1	1	2	2	2	6	3	3	4	4	4	4	Natural Sciences	Prof
+89	6	5	5	6	2	5	5	4	Yes	No	No	No	No	3-4	No	No	Yes	No	No	0	4	2	1	2	1	4	1	2	3	3	2	1	1	1	2	2	3	3	4	2	5	5	4	2	1	1	2	3	1	1	1	6	4	6	2	6	6	5	2	4	5	Engineering and technology	Senior
+90	6	6	6	6	4	6	6	6	No	No	Yes	No	No	0	NA	NA	NA	Yes	NA	0	5	5	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	2	3	5	6	6	5	3	5	2	5	4	4	3	3	5	4	6	4	6	5	NA	Prof
+91	6	6	6	6	3	3	3	4	No	Yes	Yes	No	No	0	No	Yes	Yes	No	No	0	5	2	2	2	2	4	1	2	2	2	1	2	2	2	5	5	4	2	6	6	3	3	2	3	4	2	2	2	2	2	2	4	3	2	4	6	5	5	2	6	5	Natural Sciences	Prof
+92	6	4	6	6	5	5	5	5	No	Yes	No	No	No	0	Yes	Yes	No	No	No	1-2	4	3	2	5	5	5	2	5	3	3	4	2	1	2	4	4	2	5	5	5	5	5	1	3	2	2	2	5	4	1	2	5	5	2	5	4	3	5	3	6	4	Engineering and technology	Prof
+93	4	4	4	4	2	3	3	3	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	3	3	4	3	4	3	3	3	3	1	2	1	2	4	4	4	2	5	5	4	3	4	3	3	3	2	1	2	1	2	4	4	4	2	5	5	5	2	3	5	Social Sciences and Economics	Junior
+94	6	4	5	5	1	2	2	2	Yes	No	No	No	No	1-2	Yes	No	No	No	No	more than 4	2	5	5	4	4	5	1	1	2	3	2	2	2	2	6	5	5	2	6	6	2	2	1	6	5	5	5	2	5	5	5	2	2	1	3	3	2	5	2	5	5	Engineering and technology	Prof
+95	1	1	1	1	1	1	3	1	NA	NA	NA	Yes	NA	0	No	Yes	No	No	No	0	3	3	1	3	4	4	1	3	5	5	5	1	2	1	3	4	4	4	4	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	3	3	4	Engineering and technology	Prof
+96	6	5	5	5	6	5	5	5	Yes	Yes	No	No	No	1-2	No	Yes	No	No	No	0	6	2	2	3	3	6	1	1	2	2	1	1	1	2	5	5	2	4	6	4	5	5	4	3	2	2	2	2	1	1	1	6	5	4	3	6	5	6	4	5	5	Engineering and technology	Junior
+97	3	3	4	3	2	4	3	4	Yes	Yes	No	No	No	more than 4	No	Yes	No	No	No	0	4	2	2	1	1	3	2	5	3	5	2	2	3	2	1	2	2	2	2	2	4	4	3	4	2	3	2	3	1	1	1	6	5	3	1	6	6	5	3	5	3	Engineering and technology	Senior
+98	6	6	6	6	2	1	1	1	Yes	No	No	No	No	1-2	No	Yes	No	No	No	0	3	4	3	2	2	2	4	5	5	5	4	3	3	3	2	2	2	5	2	2	2	2	2	5	5	4	5	2	4	4	4	2	2	1	5	2	2	5	2	4	5	Engineering and technology	Prof
+99	6	5	6	6	5	4	4	4	No	No	Yes	No	No	0	No	Yes	No	No	No	0	4	2	1	1	2	5	1	4	2	5	2	2	2	2	5	3	6	1	6	5	2	2	3	2	4	4	5	5	2	2	2	4	2	6	2	6	5	4	4	5	5	Social Sciences and Economics	Junior
+100	6	5	6	6	4	3	3	3	Yes	Yes	Yes	No	No	3-4	Yes	Yes	Yes	No	No	3-4	3	2	2	3	2	4	2	5	4	4	1	2	2	2	5	4	5	2	6	5	2	2	2	4	4	3	4	2	4	3	2	4	3	3	2	6	4	5	1	4	4	Social Sciences and Economics	Prof
+101	6	6	6	5	1	4	5	5	No	No	Yes	No	No	0	NA	NA	NA	Yes	NA	0	3	4	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	3	5	2	2	4	4	5	3	5	2	5	4	3	3	6	6	6	3	5	6	Natural Sciences	Other
+102	6	6	6	4	2	5	5	5	No	Yes	No	No	No	0	No	Yes	No	No	No	0	3	3	2	3	4	3	2	5	4	4	2	3	3	4	5	4	3	3	6	5	3	4	3	3	5	4	4	5	4	2	3	4	4	2	3	6	4	5	4	5	6	Natural Sciences	Prof
+103	6	6	6	6	3	1	1	1	No	Yes	No	No	No	0	Yes	No	No	No	No	3-4	3	3	3	5	3	6	1	5	2	2	6	1	1	1	5	6	6	1	6	6	4	4	1	4	1	5	5	4	5	1	4	5	6	5	1	6	6	6	1	6	6	Engineering and technology	Prof
+104	6	5	5	4	5	4	4	4	No	No	Yes	No	No	0	Yes	No	No	No	No	more than 4	5	2	1	5	2	5	1	1	2	2	1	1	1	1	6	6	4	2	6	6	5	4	1	6	1	5	2	1	1	1	1	5	4	1	6	4	5	5	3	6	6	Engineering and technology	Prof
+105	6	5	6	6	5	4	4	4	Yes	No	No	No	No	3-4	Yes	No	No	No	No	3-4	5	2	2	3	1	4	1	5	3	2	1	1	1	1	5	4	3	3	6	6	4	2	3	4	1	3	2	1	1	1	1	5	5	3	2	6	6	5	2	5	3	NA	Senior
+106	4	5	2	3	3	3	5	5	Yes	Yes	Yes	No	No	1-2	NA	NA	NA	Yes	NA	0	2	3	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	3	3	5	3	3	3	4	3	3	3	2	2	4	3	5	4	5	4	6	6	Natural Sciences	Junior
+107	4	4	3	4	3	3	3	3	Yes	No	No	No	No	3-4	No	Yes	No	No	No	0	2	4	3	3	1	3	3	3	3	2	4	2	3	2	4	4	3	4	4	4	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	Social Sciences and Economics	Prof
+108	5	4	4	3	3	4	6	5	Yes	Yes	No	No	No	more than 4	Yes	No	No	No	No	more than 4	3	3	4	5	4	5	3	3	3	4	4	2	2	3	3	4	3	4	6	5	6	5	5	2	4	2	5	5	2	5	3	4	5	5	6	6	6	5	5	4	5	Engineering and technology	Prof
+109	6	4	6	6	1	4	4	4	Yes	No	No	No	No	3-4	No	No	Yes	No	No	0	3	4	3	1	1	4	2	6	5	5	1	5	6	5	3	3	2	3	3	3	2	4	1	6	5	6	5	3	4	6	4	2	2	2	2	3	2	3	1	4	4	Natural Sciences	Junior
+110	6	6	6	6	4	3	3	3	Yes	No	No	No	No	3-4	Yes	No	No	No	No	3-4	3	1	1	5	1	2	2	6	2	2	1	2	2	2	3	3	1	6	6	6	2	3	2	5	5	2	2	1	5	2	2	3	3	1	6	4	4	4	1	3	4	Engineering and technology	Junior
+111	6	6	6	6	6	2	2	2	Yes	No	Yes	No	No	1-2	No	Yes	No	No	No	0	3	3	1	3	2	4	2	1	2	1	1	1	1	1	4	4	4	3	6	6	1	1	1	5	2	2	2	1	1	1	1	2	1	1	6	2	1	6	3	5	6	Social Sciences and Economics	Prof
+112	6	6	6	6	5	4	4	4	Yes	No	No	No	No	more than 4	No	Yes	No	No	No	0	3	4	4	2	2	5	2	3	2	3	1	2	1	1	4	5	3	5	6	6	5	4	3	3	2	3	4	3	2	1	1	5	5	3	5	6	6	4	4	4	4	Engineering and technology	Other
+113	6	3	4	6	2	3	3	3	Yes	No	No	No	No	1-2	No	No	Yes	No	No	0	1	5	3	2	3	2	3	6	6	6	3	2	3	2	1	1	1	1	3	3	2	1	5	3	6	5	6	4	2	2	2	4	2	2	2	3	4	6	2	6	5	Natural Sciences	Prof
+114	6	5	6	5	5	5	5	4	Yes	Yes	Yes	No	No	3-4	No	Yes	Yes	No	No	0	5	1	1	2	2	3	1	3	2	3	1	1	1	1	6	3	4	5	6	6	4	5	3	1	3	1	4	3	1	1	1	6	6	6	6	6	6	6	3	6	5	Engineering and technology	Junior
+115	6	6	6	6	4	3	3	5	No	Yes	Yes	No	No	0	No	Yes	Yes	No	No	0	3	3	1	4	1	5	2	2	2	2	1	1	1	1	5	4	4	4	6	4	2	4	1	4	3	3	4	2	3	2	2	5	2	3	5	6	3	6	3	6	6	Natural Sciences	Other
+116	6	5	6	3	4	4	4	5	Yes	Yes	Yes	No	No	3-4	No	Yes	Yes	No	No	0	1	5	4	2	2	4	2	2	5	3	1	4	5	3	5	6	4	3	6	6	4	2	2	4	2	4	2	2	3	3	2	5	6	3	3	6	6	6	4	6	5	Social Sciences and Economics	Junior
+117	6	6	4	4	1	6	6	6	Yes	Yes	No	No	No	1-2	Yes	No	Yes	No	No	1-2	3	5	6	1	1	3	1	5	5	4	1	1	3	1	3	2	1	5	3	2	4	4	3	4	2	2	3	1	2	2	1	3	5	4	2	5	4	5	3	5	6	Engineering and technology	Senior
+118	6	5	6	6	6	4	4	3	Yes	Yes	Yes	No	No	1-2	Yes	Yes	Yes	No	No	1-2	4	1	1	4	1	4	1	2	4	3	1	1	2	1	6	4	6	2	6	6	3	1	3	3	2	2	3	3	1	2	1	6	3	2	3	6	4	6	2	6	4	Engineering and technology	Other
+119	6	6	6	6	6	6	6	6	Yes	Yes	Yes	No	No	more than 4	NA	NA	NA	Yes	NA	0	4	3	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	4	6	1	1	1	3	5	1	1	1	4	4	4	2	6	6	6	6	4	6	Engineering and technology	Junior
+120	6	6	6	6	6	1	5	4	Yes	Yes	Yes	No	No	3-4	No	Yes	No	No	No	0	6	1	1	5	5	5	1	5	1	3	5	1	1	1	6	4	4	5	6	5	5	4	5	1	4	1	1	5	1	1	1	5	5	4	5	6	6	5	5	5	6	Natural Sciences	Junior
+121	6	5	6	4	4	3	3	3	No	Yes	No	No	No	0	No	Yes	No	No	No	0	3	4	3	3	1	5	2	3	3	4	2	2	3	2	4	4	2	4	6	5	3	4	3	5	2	4	4	5	2	2	2	5	5	4	2	6	6	5	4	5	5	Engineering and technology	Senior
+122	6	6	5	5	6	6	6	6	No	No	Yes	No	No	0	NA	NA	NA	Yes	NA	0	4	5	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	2	5	3	1	2	2	2	3	3	4	5	6	2	2	5	6	6	5	6	6	NA	Prof
+123	6	5	4	6	5	3	4	2	No	Yes	No	No	No	0	Yes	No	No	No	No	1-2	2	3	2	1	1	4	1	4	3	1	5	2	5	5	3	6	6	1	6	5	5	5	5	5	2	4	1	6	5	5	6	2	4	3	3	6	5	6	3	6	5	Social Sciences and Economics	Junior
+124	6	4	6	6	6	3	3	3	No	No	Yes	No	No	0	No	Yes	No	No	No	0	5	1	1	2	2	5	2	1	1	4	1	1	1	1	4	4	5	2	6	5	2	1	2	5	3	6	1	2	2	2	2	4	2	2	4	3	3	6	2	6	6	Engineering and technology	Other
+125	5	4	5	5	2	5	5	5	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	2	3	2	1	2	4	2	5	5	5	2	2	3	3	3	4	3	3	3	3	2	2	4	2	3	3	3	3	3	4	2	4	5	5	2	5	5	4	2	4	5	Social Sciences and Economics	Junior
+126	6	6	6	6	5	3	3	3	NA	NA	NA	Yes	NA	0	Yes	No	No	No	No	1-2	5	2	1	4	2	6	1	4	2	1	4	1	1	1	4	4	4	3	6	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	3	5	5	Social Sciences and Economics	Junior
+127	6	6	6	6	6	5	4	1	Yes	Yes	No	No	No	3-4	No	Yes	No	No	No	0	3	2	2	4	1	2	4	6	6	2	2	5	6	5	2	5	1	2	2	1	3	1	4	6	1	6	4	2	2	2	1	3	4	5	1	6	4	6	4	2	5	Social Sciences and Economics	Junior
+128	5	5	5	4	4	3	4	3	No	Yes	No	No	No	0	No	Yes	No	No	No	0	2	2	2	2	3	5	1	3	5	2	2	2	2	2	3	4	1	5	6	5	4	4	2	5	3	3	2	2	5	2	4	4	4	4	3	6	5	6	4	6	6	Engineering and technology	Prof
+129	4	1	1	1	1	4	2	2	Yes	Yes	Yes	No	No	more than 4	Yes	Yes	Yes	No	No	1-2	2	3	3	1	1	1	2	2	1	1	2	1	1	1	3	2	1	2	4	3	2	1	4	1	3	1	1	3	1	2	1	3	3	1	3	3	3	4	4	6	4	Natural Sciences	Prof
+130	6	6	6	6	6	6	6	6	Yes	Yes	Yes	No	No	3-4	Yes	Yes	No	No	No	3-4	4	2	1	1	1	1	1	1	3	3	1	1	1	1	4	3	4	1	6	6	1	1	1	1	1	1	1	1	1	1	1	3	3	4	3	6	5	6	1	5	6	Social Sciences and Economics	Prof
+131	6	4	6	6	5	6	6	6	Yes	No	Yes	No	No	1-2	NA	NA	NA	Yes	NA	0	2	4	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	4	3	2	1	1	1	1	2	1	1	6	2	1	1	6	6	6	1	6	6	Natural Sciences	Prof
+132	6	6	6	6	4	4	4	4	Yes	Yes	Yes	No	No	more than 4	No	No	Yes	No	No	0	5	2	2	2	2	2	5	5	5	2	2	2	5	2	4	2	2	2	4	4	2	2	4	5	5	2	2	5	2	4	2	5	4	5	2	5	5	5	4	5	5	Engineering and technology	Prof
+133	6	5	5	5	2	3	3	3	Yes	No	No	No	No	1-2	NA	NA	NA	Yes	NA	0	3	4	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	4	3	4	4	4	4	3	3	3	1	4	4	5	2	6	6	6	3	5	6	Natural Sciences	Senior
+134	6	4	4	4	5	6	4	5	Yes	Yes	No	No	No	1-2	No	Yes	No	No	No	0	4	3	2	2	1	5	1	5	5	5	2	1	3	1	3	2	3	3	4	2	3	4	4	3	2	5	4	4	1	2	1	6	4	5	2	4	4	5	2	6	3	Engineering and technology	Junior
+135	6	4	5	5	5	5	5	5	No	Yes	Yes	No	No	0	No	Yes	Yes	No	No	0	2	4	4	3	1	4	2	4	2	2	3	2	3	4	3	4	2	4	6	5	4	4	3	4	3	2	2	3	2	2	4	5	6	5	2	6	6	6	2	5	6	Engineering and technology	Junior
+136	6	6	6	6	1	6	6	6	Yes	Yes	Yes	No	No	1-2	Yes	Yes	Yes	No	No	1-2	2	6	5	3	3	2	4	5	5	5	3	2	3	3	5	4	2	4	6	3	3	3	1	6	5	6	6	2	4	4	3	4	4	2	6	6	3	6	2	5	5	Engineering and technology	Prof
+137	5	4	5	5	3	5	4	5	Yes	Yes	Yes	No	No	1-2	No	Yes	Yes	No	No	0	4	2	2	2	2	3	2	3	4	4	2	2	2	2	3	4	4	2	4	4	3	3	3	3	3	3	3	2	4	3	3	3	4	5	2	4	4	4	2	3	4	Natural Sciences	Other
+138	6	6	6	6	2	2	2	2	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	4	1	1	1	5	1	6	6	4	1	1	1	1	2	3	3	3	6	4	1	1	2	4	6	6	6	3	1	1	1	5	1	2	5	6	2	6	1	6	5	Social Sciences and Economics	Senior
+139	6	6	6	6	4	6	6	6	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	1	3	4	2	5	2	2	2	3	2	2	1	2	5	5	5	2	6	6	4	3	4	2	2	3	2	4	2	1	2	5	5	4	2	6	6	5	2	5	5	Natural Sciences	Junior
+140	6	6	6	6	2	3	3	4	NA	NA	NA	Yes	NA	0	No	No	Yes	No	No	0	2	2	1	3	2	4	2	4	4	5	4	2	1	2	4	3	4	3	5	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	2	5	4	Natural Sciences	Prof
+141	6	5	5	5	2	5	4	4	No	Yes	No	No	No	0	No	No	Yes	No	No	0	4	2	2	5	3	3	4	4	5	4	4	4	4	4	4	4	3	3	4	4	5	5	5	4	2	2	5	4	2	2	2	5	5	1	4	5	4	6	3	5	6	Natural Sciences	Prof
+142	6	6	6	6	4	5	5	5	Yes	Yes	Yes	No	No	1-2	Yes	Yes	Yes	No	No	1-2	6	2	1	3	2	1	1	4	4	2	1	1	2	1	6	6	6	2	6	6	4	1	2	4	3	4	2	1	2	2	4	6	4	3	3	6	5	6	6	6	6	Engineering and technology	Prof
+143	6	6	6	6	1	1	2	2	No	No	Yes	No	No	0	No	No	Yes	No	No	0	2	4	2	1	1	3	3	2	5	4	1	4	4	3	2	2	1	6	1	1	1	1	1	6	5	5	4	1	3	5	2	2	2	2	5	3	2	4	1	4	1	Natural Sciences	Senior
+144	6	6	6	6	3	4	4	4	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	2	2	5	5	2	2	1	1	4	1	2	1	1	5	5	1	2	5	5	2	2	3	2	5	2	3	3	2	2	2	5	5	2	2	5	5	6	3	3	5	Natural Sciences	Prof
+145	6	5	6	6	4	2	3	3	No	No	Yes	No	No	0	No	No	Yes	No	No	0	3	3	2	1	1	3	3	6	6	6	1	3	6	3	3	4	1	6	4	4	3	1	1	5	6	5	6	2	2	6	3	4	4	3	3	5	5	1	1	2	5	Natural Sciences	Junior
+146	6	4	6	5	6	2	2	2	No	No	Yes	No	No	0	NA	NA	NA	Yes	NA	0	2	3	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	3	2	5	4	5	5	3	3	3	3	3	3	1	3	4	2	4	2	4	4	NA	Junior
+147	6	5	6	6	6	5	5	5	Yes	Yes	No	No	No	3-4	No	Yes	No	No	No	0	5	2	2	2	1	5	1	4	3	4	4	1	1	1	5	3	3	4	5	5	5	4	5	2	4	2	4	5	1	1	1	6	6	6	1	6	6	6	3	6	6	Engineering and technology	Junior
+148	6	4	6	5	4	3	3	3	No	No	Yes	No	No	0	No	No	Yes	No	No	0	2	2	2	3	1	2	3	5	3	4	1	1	3	1	2	3	3	2	4	3	2	3	2	4	3	4	3	1	3	2	2	3	2	4	4	4	3	6	2	3	6	Engineering and technology	Other
+149	5	4	5	4	3	3	5	5	No	No	Yes	No	No	0	NA	NA	NA	NA	Yes	0	2	6	5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2	3	4	4	4	4	4	6	3	4	2	3	2	2	3	3	5	3	4	5	Natural Sciences	Prof
+150	5	5	5	5	4	4	3	3	No	No	Yes	No	No	0	NA	NA	NA	Yes	NA	0	2	5	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	3	2	2	4	2	2	4	2	2	2	4	4	2	4	4	5	4	2	4	5	NA	Senior
+151	6	4	6	4	3	2	2	1	Yes	Yes	No	No	No	1-2	No	Yes	No	No	No	0	3	4	4	1	1	2	2	6	5	6	1	2	4	2	3	4	3	4	5	4	2	2	2	5	6	6	6	1	2	4	2	3	3	2	5	5	3	3	1	3	6	Natural Sciences	Senior
+152	6	4	5	4	3	3	3	3	NA	NA	NA	Yes	NA	0	Yes	Yes	Yes	No	No	1-2	1	3	3	1	1	3	3	6	6	3	3	3	3	3	1	2	5	1	3	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	1	3	6	Natural Sciences	Senior
+153	6	5	6	6	2	2	2	2	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	2	6	4	1	1	4	2	2	4	4	2	2	2	2	2	3	2	2	3	2	2	2	2	5	2	3	4	2	4	3	2	2	2	6	2	3	2	4	1	4	3	NA	Prof
+154	5	3	5	5	2	3	3	3	Yes	Yes	Yes	No	No	1-2	No	Yes	No	No	No	0	4	2	2	1	1	4	2	3	5	4	1	2	4	2	4	3	3	4	4	4	1	1	2	4	3	5	4	1	2	2	2	5	2	4	4	4	3	5	1	3	3	Social Sciences and Economics	Prof
+155	6	6	6	6	4	4	4	5	Yes	Yes	Yes	No	No	1-2	NA	NA	NA	Yes	NA	0	4	2	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	5	5	2	1	1	5	5	1	2	1	5	5	5	2	6	6	6	5	6	5	Natural Sciences	Prof
+156	6	6	6	6	1	1	1	1	Yes	Yes	No	No	No	1-2	NA	NA	NA	Yes	NA	0	3	6	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	6	6	1	1	1	1	1	1	1	1	6	6	6	6	6	6	6	1	6	6	NA	Senior
+157	3	1	3	1	1	1	1	1	No	Yes	No	No	No	0	No	Yes	No	No	No	0	1	6	6	1	1	1	6	6	6	6	1	6	6	6	1	1	1	6	1	1	1	3	1	1	6	6	6	1	6	6	6	1	1	1	6	1	1	3	1	3	1	Social Sciences and Economics	Other
+158	6	3	5	5	2	4	4	4	Yes	Yes	Yes	No	No	more than 4	No	Yes	Yes	No	No	0	5	1	2	2	1	4	1	2	3	3	1	1	1	1	3	3	2	5	6	3	4	4	3	4	1	2	2	1	1	1	1	6	4	2	2	6	3	5	3	6	4	Natural Sciences	Prof
+159	5	2	2	2	1	2	2	2	Yes	Yes	Yes	No	No	1-2	NA	NA	NA	Yes	NA	0	3	6	6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	4	4	1	3	2	2	3	1	2	2	4	4	5	5	5	5	6	3	6	6	Engineering and technology	Junior
+160	6	4	5	6	1	2	1	2	Yes	No	Yes	No	No	1-2	NA	NA	NA	Yes	NA	0	3	3	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2	1	4	6	5	4	1	2	2	2	4	2	2	6	3	2	6	1	5	5	Natural Sciences	Prof
+161	6	6	6	5	1	5	4	4	No	Yes	Yes	No	No	0	No	Yes	Yes	No	No	0	5	1	3	1	1	1	3	6	6	5	1	5	6	6	5	1	1	6	1	1	5	5	6	4	5	3	5	2	5	6	4	6	4	4	3	4	4	6	2	6	5	Engineering and technology	Prof
+162	6	6	6	6	6	4	4	4	No	No	Yes	No	No	0	Yes	No	No	No	No	more than 4	5	2	1	4	2	5	2	5	5	5	4	2	2	2	4	4	4	4	5	5	3	3	3	4	5	5	4	2	2	2	4	3	3	2	4	3	3	6	5	5	6	Natural Sciences	Prof
+163	6	4	6	6	1	2	2	2	Yes	Yes	Yes	No	No	1-2	NA	NA	NA	Yes	NA	0	2	3	4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1	1	5	5	6	4	3	1	1	1	2	1	3	6	5	2	5	1	3	6	NA	Prof
+164	6	6	6	6	5	4	4	4	Yes	No	Yes	No	No	1-2	Yes	No	Yes	No	No	1-2	5	2	1	1	1	5	2	5	4	4	2	4	3	4	5	5	4	2	6	5	4	2	4	2	5	4	4	3	4	2	3	5	5	2	4	6	5	5	3	5	5	Social Sciences and Economics	Junior
+165	6	6	6	6	5	4	4	4	Yes	No	No	No	No	1-2	Yes	No	No	No	No	1-2	3	3	3	3	1	6	6	3	5	6	6	1	1	1	3	4	6	1	6	6	4	3	1	1	5	5	6	6	1	1	1	2	2	5	2	4	3	4	1	4	6	Natural Sciences	Junior
+166	6	5	6	6	5	4	4	4	Yes	Yes	Yes	No	No	3-4	No	Yes	Yes	No	No	0	4	1	1	1	1	1	1	6	6	6	1	3	1	1	1	1	1	6	3	1	4	1	1	3	1	6	6	4	2	1	1	6	3	5	2	6	6	5	1	4	6	Natural Sciences	Prof
+167	6	6	6	5	3	3	3	4	No	Yes	No	No	No	0	No	Yes	No	No	No	0	4	2	1	3	1	3	1	3	2	1	3	1	1	1	5	5	4	2	3	4	4	2	5	1	3	2	2	4	1	1	1	5	5	4	2	5	4	6	4	5	5	NA	Prof
+168	5	5	5	5	4	3	4	4	No	No	Yes	No	No	0	No	Yes	Yes	No	No	0	6	1	2	1	1	2	4	6	5	6	5	1	3	1	5	4	6	1	5	5	4	5	2	5	4	5	5	5	2	3	3	4	5	6	2	5	5	5	2	5	6	Natural Sciences	Prof
+169	5	5	6	6	3	3	3	5	No	Yes	No	No	No	0	No	Yes	No	No	No	0	6	2	2	1	2	4	1	4	3	4	1	1	1	1	5	5	2	4	6	4	4	4	3	2	4	3	4	1	1	1	1	6	6	4	2	6	5	5	1	4	5	Social Sciences and Economics	Junior
+170	4	3	4	5	6	5	5	5	No	Yes	No	No	No	0	Yes	No	No	No	No	1-2	4	2	3	2	3	5	2	2	3	2	4	1	1	1	5	5	5	2	6	6	2	2	5	2	2	2	2	1	1	1	1	4	4	4	4	5	5	5	2	5	6	Engineering and technology	Senior
+171	6	6	6	6	6	4	4	4	No	Yes	No	No	No	0	No	Yes	No	No	No	0	5	2	1	1	1	3	2	2	1	3	3	1	1	1	5	5	6	2	6	6	4	4	2	3	3	1	3	3	2	2	2	5	4	5	2	6	5	6	2	6	5	NA	Other
+172	5	4	4	5	1	4	3	3	No	Yes	Yes	No	No	0	NA	NA	NA	Yes	NA	0	4	2	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2	1	3	4	4	3	1	1	4	2	4	3	4	2	5	4	5	1	3	4	NA	Prof
